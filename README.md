@@ -15,9 +15,9 @@
 
 
 
-- :telescope: I'm currently studying Computer Science in UFC ☕;
-- :hourglass_flowing_sand: Learning ML, DL, JavaScript and TypeScript;
-- :briefcase: Currently working as React Native Developer at Nestec;
+- :telescope: I'm currently studying Computer Science in UFC;
+- :hourglass_flowing_sand: Learning Machine Learning aproaches to solve Combinatorial Optimization Problems in Graphs;
+- :briefcase: Currently working as React Native Developer;
 <br><br><br>
 
 <p align='center'>
