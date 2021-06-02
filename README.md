@@ -1,41 +1,30 @@
-## Hi, I'm Leonardo David! 
- 
- 
- <a href="https://www.linkedin.com/in/leondavidtb/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/leondavidtb">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-<img align="right" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="Coder GIF" width="500" height="400">
+## Hi, I'm Leonardo! 👋
 
 
+### 📝 About me 
+I love technology and I'm passionate about science, physics and math.
 
+I have experience in both web and mobile development, I also have knowledge in Data Science, Machine Learning and Deep Learning. 
 
+### 💻 Technologies and Experiences 
+- React (Web and Mobile), TypeScript, HTML/CSS/JS;
+- Node, NPM, Yarn;
+- Databases such as MySQL, PostgreSQL and MongoDB;
+- Pandas, Matplotlib, Numpy and other Data Science tools;
+- Linux and Windows;
+- Git and GitHub
 
+### 🚧 Currently Working With
+- [Front-end Developer at Nestec](https://nestec.com.br/)
+- Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs
 
-- :telescope: I'm currently studying Computer Science in UFC;
-- :hourglass_flowing_sand: Learning Machine Learning aproaches to solve Combinatorial Optimization Problems in Graphs;
-- :briefcase: Currently working as React Native Developer;
-<br><br><br>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leondavidtb&layout=compact&langs_count=16&theme=dracula"/> -->
 
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  
-</p>
+### 📫 Contact 
+You can reach me on:
+* [GitHub](https://github.com/leondavidtb)
+* [LinkedIn](https://www.linkedin.com/in/leondavidtb/)
+* [Twitter](https://twitter.com/leondavidtb)
 
-<p align='center'>
-  🚀 Frameworks<br/><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leondavidtb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<br><br><br>
