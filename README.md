@@ -18,8 +18,6 @@ I have experience in both web and mobile development, I also have knowledge in D
 - [Front-end Developer at Nestec](https://nestec.com.br/)
 - [Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs at NEMO](http://nemo.ufc.br/)
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leondavidtb&layout=compact&langs_count=16&theme=dracula"/> -->
-
 ### 📫 Contact 
 You can reach me on:
 * [GitHub](https://github.com/leondavidtb)
