@@ -7,10 +7,8 @@ Currently enrolled in Computer Science course at Universidade Federal do Ceará.
 I have experience in both web and mobile development, I also have knowledge in Data Science, Machine Learning and Deep Learning. 
 
 ### 💻 Technologies and Experiences 
-- React (Web and Mobile), TypeScript, HTML/CSS/JS;
+- ReactJS and React Native, TypeScript, HTML/CSS/JS, Expo, API Rest;
 - Node, NPM, Yarn;
-- Databases such as MySQL, PostgreSQL and MongoDB;
-- Pandas, Matplotlib, Numpy and other Data Science tools;
 - Linux and Windows;
 - Git and GitHub
 
