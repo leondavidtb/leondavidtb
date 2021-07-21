@@ -18,9 +18,7 @@ I have experience in both web and mobile development, I also have knowledge in D
 
 ### 📫 Contact 
 You can reach me on:
-* [GitHub](https://github.com/leondavidtb)
 * [LinkedIn](https://www.linkedin.com/in/leondavidtb/)
-* [Twitter](https://twitter.com/leondavidtb)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leondavidtb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
