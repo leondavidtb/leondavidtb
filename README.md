@@ -2,7 +2,7 @@
 
 
 ### 📝 About me
-I love technology and I'm passionate about science, physics and math.
+I love technology and I'm passionate about science.
 Currently enrolled in Computer Science course at Universidade Federal do Ceará.
 I have experience in both web and mobile development, I also have knowledge in Data Science, Machine Learning and Deep Learning. 
 
