@@ -13,7 +13,7 @@ I have experience in both web and mobile development, I also have knowledge in D
 - Git and GitHub
 
 ### 🚧 Currently Working With
-- [Front-end Developer at Nestec](https://nestec.com.br/)
+- Front-end Developer
 - [Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs at NEMO](http://nemo.ufc.br/)
 
 ### 📫 Contact 
