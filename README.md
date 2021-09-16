@@ -4,17 +4,17 @@
 ### 📝 About me
 I love technology and I'm passionate about science.
 Currently enrolled in Computer Science course at Universidade Federal do Ceará.
-I have experience in both web and mobile development, I also have knowledge in Data Science, Machine Learning and Deep Learning. 
+I have experience in both web and mobile development with ReactJS and React Native.  
 
 ### 💻 Technologies and Experiences 
-- ReactJS and React Native, TypeScript, HTML/CSS/JS, Expo, API Rest;
+- ReactJS and React Native, TypeScript, HTML/CSS, JavaScript, Expo, API Rest, ContextAPI;
 - Node, NPM, Yarn;
 - Linux and Windows;
-- Git and GitHub
+- Git and GitHub.
 
 ### 🚧 Currently Working With
-- Front-end Development 
-- [Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs at NEMO](http://nemo.ufc.br/)
+- Front-end Development;
+- [Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs at NEMO](http://nemo.ufc.br/).
 
 ### 📫 Contact 
 You can reach me on:
