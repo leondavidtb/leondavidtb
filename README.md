@@ -13,8 +13,14 @@ I have experience in both web and mobile development with ReactJS and React Nati
 - Git and GitHub.
 
 ### 🚧 Currently Working With
-- Front-end Development;
-- [Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs at NEMO](http://nemo.ufc.br/).
+- [Software Development](https://compassouol.com/)
+  - Development of E-commerce solutions with Oracle Commerce tool and Open Storefront Framework in ReactJS
+    - React Hooks
+    - Redux and Redux-Saga
+    - OCC
+    - OSF
+- [Machine Learning and Optimization Research](http://nemo.ufc.br/)
+  - Research Machine Learning techniques for solving Combinatorial Optimization Problems in graphs.
 
 ### 📫 Contact 
 You can reach me on:
