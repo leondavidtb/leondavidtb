@@ -8,12 +8,15 @@ I have experience in both web and mobile development with ReactJS and React Nati
 
 ### 🚧 Currently Working With
 - [Software Development](https://compass.uol/)
-  - Development of E-commerce solutions with Oracle Commerce tool and Open Storefront Framework in ReactJS
-    - HTML/CSS 
+  - Development of E-commerce solutions with Oracle CX Commerce and Open Storefront Framework
+    - HTML/CSS
+    - JavaScript 
     - React Hooks
     - Redux and Redux-Saga
     - OCC
     - OSF
+    - Bitbucket
+    - Jira
 
 ### 📫 Contact 
 You can reach me on:
