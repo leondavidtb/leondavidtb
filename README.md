@@ -7,16 +7,7 @@ Currently enrolled in Computer Science course at Universidade Federal do Ceará.
 I have experience in both web and mobile development with ReactJS and React Native.  
 
 ### 🚧 Currently Working With
-- [Software Development](https://compass.uol/)
-  - Development of E-commerce solutions with Oracle CX Commerce and Open Storefront Framework
-    - HTML/CSS
-    - JavaScript 
-    - React Hooks
-    - Redux and Redux-Saga
-    - OCC
-    - OSF
-    - Bitbucket
-    - Jira
+Development of E-commerce platforms with Oracle CX Commerce and Open Storefront Framework
 
 ### 📫 Contact 
 You can reach me on:
