@@ -6,8 +6,9 @@ I love technology and I'm passionate about science.
 Currently enrolled in Computer Science course at Universidade Federal do Ceará.
 I have experience in both web and mobile development with ReactJS and React Native.  
 
-### 🚧 Currently Working With
-Development of E-commerce platforms with Oracle CX Commerce and Open Storefront Framework
+### 🚧 Experience
+Currently working on developing e-commerce platforms using Open Storefront Framework and Oracle CX Commerce, creating adaptive components following UI design, using HTML5, ReactJS (Hooks), Redux and Redux-saga, CSS / SCSS and git. I also worked with Context API, Styled Components, TypeScript and API consumption. <br>
+I also have experience with React Native with Expo CLI and native integrations like camera, map and file systems.
 
 ### 📫 Contact 
 You can reach me on:
