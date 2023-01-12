@@ -8,7 +8,7 @@ I'm a software developer focused on the development of front-end web and mobile 
 - Front-end Web with Reactjs;
   - State management w/ Redux, Next;
 - Javascript and Typescript;  
-- Tailwind;
+- Tailwind and Styled Components;
 - Git and GitFlow;
 - SCRUM Methodology. 
 
