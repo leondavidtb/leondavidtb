@@ -4,13 +4,13 @@ I'm a software developer focused on the development of front-end web and mobile 
 
 #### My current tools 
 - Front-end Mobile with React Native; 
-  - Expo, Native integrations, Native Base;
+  - Expo, Native Base;
 - Front-end Web with Reactjs;
-  - State management w/ Redux, Next;
+  - Redux, Next;
 - Javascript and Typescript;  
 - Tailwind and Styled Components;
 - Git and GitFlow;
-- SCRUM Methodology. 
+- Agile Methodology. 
 
 #### Get in touch
 
