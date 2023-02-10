@@ -3,10 +3,8 @@
 I'm a software developer focused on the development of front-end web and mobile applications. Currently working on development of e-commerce platforms with Open Storefront Framework (OSF) and Oracle Cloud Commerce (OCC). I also have experience in mobile development in React Native with TypeScript and Expo.
 
 #### My current tools 
-- Front-end Mobile with React Native; 
-  - Expo, Native Base;
-- Front-end Web with Reactjs;
-  - Redux, Next;
+- Front-end Mobile with React Native with Expo;
+- Front-end Web with Reactjs and Nextjs;
 - Javascript and Typescript;  
 - Tailwind and Styled Components;
 - Git and GitFlow;
