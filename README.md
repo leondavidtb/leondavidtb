@@ -13,6 +13,9 @@ Currently, studying backend development with Java and Spring Boot.
 - Git and GitFlow;
 - Agile Methodology. 
 
+### Currently Learning
+- Java Springboot for Backend;
+
 #### Get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leondavidtb)](https://www.linkedin.com/in/leondavidtb/)
