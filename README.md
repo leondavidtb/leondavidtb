@@ -13,7 +13,7 @@ Currently, studying backend development with Java and Spring Boot.
 - Git and GitFlow;
 - Agile Methodology. 
 
-### Currently Learning
+#### Currently Learning
 - Java Springboot for Backend;
 
 #### Get in touch
