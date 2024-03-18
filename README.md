@@ -2,7 +2,6 @@
 
 I'm a software developer focused on the development of front-end web and mobile applications. Currently working on development of e-commerce platforms with Next.JS, TypeScript, Micro Frontends, Headless CMS and AWS. 
 I also have experience in mobile development in React Native with TypeScript and Expo.
-Currently, studying backend development with Java and Spring Boot.
 
 #### My current tools 
 - Front-end Mobile with React Native;
