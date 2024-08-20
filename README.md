@@ -1,7 +1,7 @@
 ### Hi, I'm Leonardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 I'm a software developer focused on the development of front-end web and mobile applications. Currently working on development of e-commerce platforms with Next.JS, TypeScript, Micro Frontends, Headless CMS and AWS. 
-I also have experience in mobile development in React Native with TypeScript and Expo.
+I also have experience in mobile development in React Native with TypeScript, Expo and CLI.
 
 #### My current tools 
 - Front-end Mobile with React Native;
